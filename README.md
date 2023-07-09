@@ -1,25 +1,31 @@
-# Phone_Reader
-Get information of any phone number. A simple color full tool in python3 for extracting information.
-# Service
-* To get your own custom hacking tool, dm me on instagram @coding_memz
-* Get the 14M passwords list containing worlds mostly used passwords, dm me on instagram @coding_memz.
-* Get the worlds best hacking course, dm me on instagram @coding_memz
+## PhoneReader
+Get information of any phone number. 
 
-# Usage
-1. apt install python3
-2. git clone https://github.com/Cyber-Dioxide/Phone_Reader
-3. cd Phone_Reader
-4. ls
-5. pip instll -r requirements.txt
-6. python3 locator.py
-# Screenshot
-![Screenshot (169)](https://user-images.githubusercontent.com/93708296/147810972-58b0cfde-d420-45d2-94b2-6d1c467f7374.png)
+A simple but efficient OSINT tool in python3 for extracting information.
 
-# *Must*
-1. You must add country code with +
-2. Type the number without ny space
+## Usage
+```css
+  1. apt install python3
+  2. git clone https://github.com/victorpreston/PhoneTracker.git
+  3. cd Phone_Reader
+  4. ls
+  5. pip instll -r requirements.txt
+  6. python3 locator.py
+```
+## Screenshot
+![Screenshot from 2023-07-10 01-06-43](https://github.com/victorpreston/PhoneTracker/assets/112781610/df4da59c-6a8f-4eb6-92dd-e648497f86ec)
 
 
-# Help
-For any question, iam mostly active on instagram @cyber_dioxide , @cyber_dioxide_
 
+
+## *Try To*
+```css
+    1. You must add country code with +
+    2. Type the number without ny space
+```
+
+## Help
+  `Try to raise an issue first`
+   `You can also start a PR`
+   
+Don't Forget To ⭐
