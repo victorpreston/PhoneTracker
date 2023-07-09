@@ -13,9 +13,8 @@ A simple but efficient OSINT tool in python3 for extracting information.
   6. python3 locator.py
 ```
 ## Screenshot
-![Screenshot from 2023-07-10 01-06-43](https://github.com/victorpreston/PhoneTracker/assets/112781610/df4da59c-6a8f-4eb6-92dd-e648497f86ec)
 
-
+![Screenshot from 2023-07-10 02-05-33](https://github.com/victorpreston/PhoneTracker/assets/112781610/5dd00270-ef71-4027-8dba-62c69a6a40b1)
 
 
 ## *Try To*
