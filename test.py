@@ -1,1 +1,0 @@
-number = str(input("Enter the PhoneNone: "))
