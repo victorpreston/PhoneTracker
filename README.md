@@ -20,7 +20,7 @@ A simple but efficient OSINT tool in python3 for extracting information.
 ## *Try To*
 ```css
     1. You must add country code with +
-    2. Type the number without ny space
+    2. Type the number without any space
 ```
 
 ## Help
