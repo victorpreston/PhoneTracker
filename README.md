@@ -9,7 +9,7 @@ A simple but efficient OSINT tool in python3 for extracting information.
   2. git clone https://github.com/victorpreston/PhoneTracker.git
   3. cd Phone_Reader
   4. ls
-  5. pip instll -r requirements.txt
+  5. pip install -r requirements.txt
   6. python3 locator.py
 ```
 ## Screenshot
@@ -20,7 +20,7 @@ A simple but efficient OSINT tool in python3 for extracting information.
 ## *Try To*
 ```css
     1. You must add country code with +
-    2. Type the number without ny space
+    2. Type the number without any space
 ```
 
 ## Help
